@@ -1,6 +1,1 @@
-First line
-Second line
-Third line
-Forth line added
-Fifth one +
-Sixth line
+"Add 7-th line" 
